@@ -1,7 +1,7 @@
-### Merhaba Ben Beytullah 👋
+### Hi I'm Beytullah 👋
 
-### Öğrenmeye çalışıyorum...
-
+Github Page: https://ozturkbeytullah.github.io/
+Personel Web: https://beytullahozturk.com.tr/
 <!--
 **ozturkbeytullah/ozturkbeytullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
