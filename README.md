@@ -3,8 +3,10 @@
 Github Page: https://ozturkbeytullah.github.io
 <br>
 Personel Web: https://beytullahozturk.com.tr
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozturkbeytullah)](https://github.com/anuraghazra/github-readme-stats)
+<br><br><hr><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozturkbeytullah&show_icons=true)
+
+
 
 
 <!--
