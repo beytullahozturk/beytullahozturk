@@ -1,4 +1,4 @@
-### Hi I'm Beytullah 👋
+### Hi there, I'm Beytullah 👋
 
 Github Page: https://ozturkbeytullah.github.io/
 Personel Web: https://beytullahozturk.com.tr/
