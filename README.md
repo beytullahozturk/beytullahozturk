@@ -5,7 +5,7 @@ Github Page: https://ozturkbeytullah.github.io
 Personel Web: https://beytullahozturk.com.tr
 <br><br><hr><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozturkbeytullah)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=your-github-ozturkbeytullah&color=c8d6e5)
+![](https://komarev.com/ghpvc/?username=your-github-ozturkbeytullah&color=576574)
 
 
 
