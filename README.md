@@ -4,8 +4,9 @@ Github Page: https://ozturkbeytullah.github.io
 <br>
 Personel Web: https://beytullahozturk.com.tr
 <br><br><hr><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozturkbeytullah&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozturkbeytullah)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=00d2d3)
+
 
 
 
