@@ -1,6 +1,6 @@
 ### Hi there, I'm Beytullah 👋
 
-Github Page: https://ozturkbeytullah.github.io/
+Github Page: https://ozturkbeytullah.github.io/ <br>
 Personel Web: https://beytullahozturk.com.tr/
 <!--
 **ozturkbeytullah/ozturkbeytullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
