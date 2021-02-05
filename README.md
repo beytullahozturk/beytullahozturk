@@ -4,8 +4,8 @@ Github Page: https://ozturkbeytullah.github.io
 <br>
 Personel Web: https://beytullahozturk.com.tr
 <br>
-https://github-readme-stats.vercel.app/api?username=ozturkbeytullah&show_icons=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=ozturkbeytullah&layout=compact
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozturkbeytullah)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ozturkbeytullah/ozturkbeytullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
