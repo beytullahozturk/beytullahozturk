@@ -1,5 +1,4 @@
 ![Junior Frontend Developer](https://beytullahozturk.com.tr/wp-content/uploads/2020/10/ust-kisim-2.jpg)
-<img src='https://beytullahozturk.com.tr/wp-content/uploads/2020/10/ust-kisim-2.jpg' alt='banner' height='500'>
 ![Profile views](https://gpvc.arturio.dev/ozturkbeytullah)  
 ## Hi there 👋
 #### I'm Beytullah - Frontend Developer
