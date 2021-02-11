@@ -1,8 +1,7 @@
 ![Junior Frontend Developer](https://beytullahozturk.com.tr/wp-content/uploads/2020/10/ust-kisim-2.jpg)
 ![Profile views](https://gpvc.arturio.dev/ozturkbeytullah)  
 ## Hi there 👋
-#### I'm Beytullah
-##### Junior Frontend Developer
+#### I'm Beytullah - Frontend Developer
 
 ## Skills
 #### VUE JS / JS / HTML / CSS
