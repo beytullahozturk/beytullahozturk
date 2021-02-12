@@ -4,6 +4,10 @@
 ### I'm Beytullah - Frontend Developer
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ozbeytullah1)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/beytullahozturk)
+[![Follow on Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://twitter.com/ozbeytullah1)
+
+
+
 
 
 ## Skills
