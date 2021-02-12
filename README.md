@@ -1,4 +1,4 @@
-![Junior Frontend Developer](pexels-negative-space-160107](https://user-images.githubusercontent.com/25108106/107764964-186d0880-6d42-11eb-9925-1dbb46a49eb7.jpg)
+![Junior Frontend Developer](https://user-images.githubusercontent.com/25108106/107764964-186d0880-6d42-11eb-9925-1dbb46a49eb7.jpg)
 ![Profile views](https://gpvc.arturio.dev/ozturkbeytullah)  
 
 ## Hi there 👋
