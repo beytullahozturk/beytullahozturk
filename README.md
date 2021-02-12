@@ -1,23 +1,19 @@
 ![Junior Frontend Developer](https://beytullahozturk.com.tr/wp-content/uploads/2020/10/ust-kisim-2.jpg)
 ![Profile views](https://gpvc.arturio.dev/ozturkbeytullah)  
+
 ## Hi there 👋
 ### I'm Beytullah - Frontend Developer
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ozbeytullah1)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/beytullahozturk)
+[![Follow on Twitter](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://ozturkbeytullah.github.io)
+[![Follow on Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ozbeytullah1)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beytullahozturk)
 [![Follow on Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://twitter.com/ozbeytullah1)
-
-
-
-
+[![Follow on Gmail](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://beytullahozturk.com.tr)  
 
 ## Skills
-### VUE JS / JS / HTML / CSS
+https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozturkbeytullah)](https://github.com/anuraghazra/github-readme-stats)
-## Connection
-
-
-
-[<img src='https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1613031312~hmac=a658b47866f30d41efb1a28ecf6c8273' alt='github' height='32'>](https://ozturkbeytullah.github.io/)
-[<img src='https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613031085~hmac=4529968a8d62e98fd54ea84e4a9950e9' alt='linkedin' height='32'>](https://www.linkedin.com/in/beytullahozturk/)
-[<img src='https://www.flaticon.com/svg/vstatic/svg/437/437985.svg?token=exp=1613031250~hmac=f0d71bfd31af4670ce6e71cf9190e3d7' alt='wordpress' height='32'>](https://beytullahozturk.com.tr/)  
