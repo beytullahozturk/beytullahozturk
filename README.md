@@ -9,8 +9,8 @@
 [![Follow on Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://twitter.com/ozbeytullah1)
 [![Follow on Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://beytullahozturk.com.tr)  
 
-## Skills
-[![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]
+> Skills
+(https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
