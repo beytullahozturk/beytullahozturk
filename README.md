@@ -17,7 +17,7 @@
 
 ## Skills
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=React)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 
 
 [![Skills Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#)
