@@ -1,8 +1,7 @@
 ![Junior Frontend Developer](https://user-images.githubusercontent.com/25108106/107764964-186d0880-6d42-11eb-9925-1dbb46a49eb7.jpg)
 ![Profile views](https://gpvc.arturio.dev/beytullahozturk)  
 
-## Hi there 👋
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <ul style="list-style:none">
   <li> I'm Beytullah</li>
