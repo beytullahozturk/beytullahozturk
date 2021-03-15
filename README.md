@@ -2,6 +2,8 @@
 ![Profile views](https://gpvc.arturio.dev/beytullahozturk)  
 
 ## Hi there 👋
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 <ul style="list-style:none">
   <li> I'm Beytullah</li>
 	<li> I'm learning all about <b>Frontend Development</b> </li>
