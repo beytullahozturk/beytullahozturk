@@ -1,4 +1,5 @@
 ![Junior Frontend Developer](https://user-images.githubusercontent.com/25108106/107764964-186d0880-6d42-11eb-9925-1dbb46a49eb7.jpg)
+![Frontend Developer](https://www.titechglobal.com/wp-content/uploads/2019/07/hire-javascript-developer-banner-1024x272.jpg)
 ![Profile views](https://gpvc.arturio.dev/beytullahozturk)  
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
