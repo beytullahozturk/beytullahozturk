@@ -5,7 +5,7 @@
 <ul style="list-style:none">
   <li> I'm Beytullah</li>
 	<li> I'm learning all about <b>Frontend Development</b> </li>
-  <li> I’m currently working on <b>Vue JS</b></li>
+  <li>I'm currently trying to learn <b> Angular </b> and <b> Vue JS </b> </li>
 </ul>
 
 [![Gmail](https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=#c0392b)](mailto:"ozbeytullah2@gmail.com")
@@ -15,9 +15,6 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ozturkbeytullah)  
 
 ## Skills
-
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
-
 
 [![Skills Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#)
 [![Skills Angular](https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=angular&logoColor=red)](#)
