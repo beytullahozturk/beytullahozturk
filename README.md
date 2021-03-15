@@ -16,6 +16,10 @@
 [![Follow on Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ozturkbeytullah)  
 
 ## Skills
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=React)
+
+
 [![Skills Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#)
 [![Skills Angular](https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=angular&logoColor=red)](#)
 [![Skills Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
