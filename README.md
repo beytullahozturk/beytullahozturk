@@ -28,6 +28,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beytullahozturk&layout=compact)](https://github.com/beytullahozturk/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=beytullahozturk&layout=compact)](https://github.com/beytullahozturk/github-readme-stats)
+
+
+
+# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+
+</a>
 
 
