@@ -25,3 +25,6 @@
 [![Skills Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beytullahozturk)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beytullahozturk&layout=compact)](https://github.com/beytullahozturk/github-readme-stats)
+
