@@ -4,7 +4,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <ul style="list-style:none">
-	<li> I'm **Beytullah** </li>
+	<li> I'm <b> Beytullah </b> </li>
 	<li> I'm learning all about <b>Frontend Development</b> </li>
   <li>I'm currently trying to learn <b> Angular </b> and <b> Vue JS </b> </li>
 </ul>
