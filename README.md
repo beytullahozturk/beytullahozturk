@@ -5,7 +5,7 @@
 <ul style="list-style:none">
 	<li> I'm <b> Beytullah </b> </li>
 	<li> I'm learning all about <b>Frontend Development</b> </li>
-  <li>I'm currently trying to learn <b> Angular </b> and <b> Vue JS </b> </li>
+  <li>I'm currently trying to learn <b> Vue JS </b> </li>
 </ul>
 
 [![Gmail](https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=#c0392b)](mailto:"ozbeytullah2@gmail.com")
