@@ -1,4 +1,3 @@
-![Frontend Developer](https://www.titechglobal.com/wp-content/uploads/2019/07/hire-javascript-developer-banner-1024x272.jpg)
 ![Profile views](https://gpvc.arturio.dev/beytullahozturk)  
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
