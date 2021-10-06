@@ -1,5 +1,3 @@
-![good-programmer-banner-final](https://user-images.githubusercontent.com/25108106/136167713-7c5d3c45-ab9b-4812-99fc-8b7ad9596ffb.jpg
-
 ![Profile views](https://gpvc.arturio.dev/beytullahozturk)  
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
