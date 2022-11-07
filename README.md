@@ -30,7 +30,7 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beytullahozturk)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=beytullahozturk)](https://github.com/beytullahozturk/github-readme-stats)-->
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=beytullahozturk&hide=javascript,html)](https://github.com/beytullahozturk/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beytullahozturk&layout=compact)](https://github.com/beytullahozturk)
 
