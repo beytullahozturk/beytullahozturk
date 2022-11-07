@@ -24,7 +24,7 @@
 [![Skills Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 
 ## My GitHub Stats
-
+/*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beytullahozturk&layout=compact)](https://github.com/beytullahozturk)
 
 
@@ -33,7 +33,7 @@
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=beytullahozturk&hide=javascript,html)](https://github.com/beytullahozturk/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beytullahozturk&layout=compact)](https://github.com/beytullahozturk)
-
+*/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beytullahozturk&hide=javascript)](https://github.com/beytullahozturk)
 
 
