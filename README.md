@@ -32,5 +32,8 @@
 
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=beytullahozturk)](https://github.com/beytullahozturk/github-readme-stats)-->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beytullahozturk&layout=compact)](https://github.com/beytullahozturk/github-readme-stats)
+
+
 
 
