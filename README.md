@@ -34,7 +34,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beytullahozturk&layout=compact)](https://github.com/beytullahozturk)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beytullahozturk&hide=javascript,html)](https://github.com/beytullahozturk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beytullahozturk&hide=javascript)](https://github.com/beytullahozturk)
 
 
 
