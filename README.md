@@ -16,6 +16,8 @@
 
 ## Skills
 
+#CSharp #.NET #NetCore 
+
 [![Skills Vue](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
 [![Skills Vue](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#)
 [![Skills Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
