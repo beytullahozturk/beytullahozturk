@@ -29,7 +29,7 @@
 
 ## My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beytullahozturk&langs_count=4&layout=compact)](https://github.com/beytullahozturk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beytullahozturk&langs_count=4&layout=compact)](#)
 
 
 
