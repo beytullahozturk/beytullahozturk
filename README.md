@@ -3,8 +3,10 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <ul style="list-style:none">
-	<li> I'm <b> Beytullah </b> </li>
-	<li> I'm learning all about <b>Back End Developer</b> </li>
+	<li> I'm <b> Beytullah Öztürk </b> </li>
+	<li> I describe myself as a backend developer. </li>
+	<li> I am also interested in other programming languages as personal curiosity. </li>
+	<li> I usually develop with C# programming language. </li>
 </ul>
 
 ## Contact
