@@ -1,4 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/beytullahozturk)  
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
